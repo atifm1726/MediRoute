@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787565967260",
+    "project_id": "mediroute-ff2ac",
+    "storage_bucket": "mediroute-ff2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787565967260:android:e87bf0e11427166ba63a59",
+        "android_client_info": {
+          "package_name": "com.mediroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787565967260-i99j3u5bvu79qimsnc3k3ngmvcrvees8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylhtyOAG9LzKSL6f0MOitu-1WEjko7Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787565967260-i99j3u5bvu79qimsnc3k3ngmvcrvees8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

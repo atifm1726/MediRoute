@@ -29,7 +29,7 @@ To Install Yarn run the following command:
 $ npm install --global yarn
 ```
 ## Running The Project
-### Front-End
+
 In the project directory type the following commands 
 to run the Front-End of the Project:  
 #### Step 1  
@@ -49,7 +49,7 @@ Start Front-End by running the following command:
 $ npm react-native run-android
 ```
 After running the command, the Front-End will be up on Port 3000, Open http://localhost:3000 to view in the browser.
-### Back-End
+
 
 
 ### Database
